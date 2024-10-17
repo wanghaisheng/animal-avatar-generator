@@ -1,8 +1,9 @@
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/roma-lukashik/animal-avatar-generator/e9b435bb28c8ae2dda224678bdda8faad6035373/preview.svg"/>
 </div>
 
-<h1 align="center">Animal Avatar Generator</h1>
+<h1 align="center">shop-conan Animal Avatar Generator</h1>
 
 <div align="center">
   <a href="https://github.com/roma-lukashik/animal-avatar-generator/blob/master/LICENSE">
